@@ -35,3 +35,4 @@ backups to run.
 > Replace CPANELUSERNAME with your cPanel username.
 
 &copy; 2013 [alvrSG](http://alvr.me)
+[+info](http://code.alvr.me/projects/cpbackup)
